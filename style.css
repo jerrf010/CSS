@@ -12,6 +12,7 @@ h2 {
     font-size: 20px;
     text-align: left;
     font-family: Arial, sans-serif;
+    flex-wrap: wrap;
 }
 p {
     color: black;
